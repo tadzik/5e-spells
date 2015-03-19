@@ -1,0 +1,126 @@
+Acid Splash
+Aid
+Antimagic Field
+Arcane Eye
+Arcane Lock
+Astral Projection
+Augury
+Beacon of Hope
+Blade Barrier
+Bless
+Blur
+Burning Hands
+Chain Lightning
+Charm Person
+Command
+Commune
+Comprehend Languages
+Cone of Cold
+Counterspell
+Cure Wounds
+Dancing Lights
+Darkness
+Death Ward
+Delayed Blast Fireball
+Detect Magic
+Dimension Door
+Disguise Self
+Disintegrate
+Dispel Magic
+Divination
+Dominate Monster
+Dominate Person
+Dream
+Earthquake
+Etherealness
+Find the Path
+Finger of Death
+Fireball
+Fire Bolt
+Fire Storm
+Flame Strike
+Flaming Sphere
+Fly
+Foresight
+Freedom of Movement
+Gate
+Globe of Invulnerability
+Greater Invisibility
+Greater Restoration
+Guardian of Faith
+Guidance
+Guiding Bolt
+Harm
+Haste
+Heal
+Healing Word
+Heroes’ Feast
+Hold Person
+Holy Aura
+Ice Storm
+Identify
+Imprisonment
+Inflict Wounds
+Invisibility
+Knock
+Lesser Restoration
+Levitate
+Light
+Lightning Bolt
+Locate Creature
+Mage Armor
+Mage Hand
+Magic Missile
+Magic Weapon
+Major Image
+Mass Cure Wounds
+Mass Heal
+Mass Healing Word
+Mass Suggestion
+Maze
+Meteor Swarm
+Minor Illusion
+Misty Step
+Mordenkainen’s Sword
+Otto’s Irresistible Dance
+Passwall
+Poison Spray
+Power Word Kill
+Power Word Stun
+Prayer of Healing
+Prestidigitation
+Protection from Energy
+Raise Dead
+Ray of Frost
+Regenerate
+Remove Curse
+Resistance
+Resurrection
+Revivify
+Sacred Flame
+Sanctuary
+Shatter
+Shield
+Shield of Faith
+Shocking Grasp
+Silence
+Silent Image
+Sleep
+Spare the Dying
+Speak with Dead
+Spider Climb
+Spirit Guardians
+Spiritual Weapon
+Stoneskin
+Suggestion
+Sunburst
+Teleport
+Thaumaturgy
+Thunderwave
+Time Stop
+True Resurrection
+True Seeing
+Wall of Fire
+Wall of Stone
+Warding Bond
+Web
