@@ -388,8 +388,7 @@ spell slot of 6th level or higher, the damage increases by
 1d8 for each slot level above 5th.
 Counterspell
 3rd-level abjuration
-Casting Time: 1 reaction, which you take when you see
-a creature within 60 feet of you casting a spell
+Casting Time: 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
 Range: 60 feet
 Components: S
 Duration: Instantaneous
