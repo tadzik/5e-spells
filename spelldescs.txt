@@ -1966,8 +1966,7 @@ spell slot of 3rd level or higher, the damage increases by
 1d8 for each slot level above 2nd.
 Shield
 1st-level abjuration
-Casting Time: 1 reaction, which you take when you are
-hit by an attack or targeted by the magic missile spell
+Casting Time: 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell
 Range: Self
 Components: V, S
 Duration: 1 round

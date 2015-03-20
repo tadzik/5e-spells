@@ -918,12 +918,12 @@
       "school" : "Evocation"
    },
    "Shield" : {
-      "casting_time" : "1 reaction, which you take when you are",
-      "components" : "Range: Self",
-      "description" : "Duration: 1 round An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.",
-      "duration" : "Components: V, S",
+      "casting_time" : "1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell",
+      "components" : "V, S",
+      "description" : "An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.",
+      "duration" : "1 round",
       "level" : 1,
-      "range" : "hit by an attack or targeted by the magic missile spell",
+      "range" : "Self",
       "school" : "Abjuration"
    },
    "Shield of Faith" : {
